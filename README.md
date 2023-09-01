@@ -1,6 +1,6 @@
 # Grupo de estudos - Estrutura de Dados | UNIP
 
-## Oi :vi:
+## Oi ✌
 Esse é o repositório com os códigos resultados dos econtros do grupo de estuds. É importante que cada um dos participantes tenha esse repositório clonado em sua máquina. 
 
 
